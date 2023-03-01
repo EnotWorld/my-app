@@ -1,0 +1,26 @@
+.dialogs {
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+  background-color: greenyellow;
+
+  &_list {
+
+  }
+}
+
+.item {
+  color: white;
+}
+
+.active {
+  color: gold;
+}
+
+.messages {
+  &_list {
+
+  }
+}
+
+
+
