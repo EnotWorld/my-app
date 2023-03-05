@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb7047da-7066-4d3b-bddd-46c7608db529" name="Changes" comment="More changes">
-      <change beforePath="$PROJECT_DIR$/src/redux/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/state.js" afterDir="false" />
-    </list>
+    <list default="true" id="fb7047da-7066-4d3b-bddd-46c7608db529" name="Changes" comment="More changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +108,7 @@
       <workItem from="1677877577255" duration="3645000" />
       <workItem from="1677884997729" duration="761000" />
       <workItem from="1677946427349" duration="15972000" />
-      <workItem from="1678023699497" duration="86000" />
+      <workItem from="1678023699497" duration="396000" />
     </task>
     <task id="LOCAL-00001" summary="Added posts to the profile">
       <created>1676663522257</created>
@@ -168,7 +166,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678023745729</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="More changes">
+      <created>1678023789150</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678023789150</updated>
+    </task>
+    <task id="LOCAL-00010" summary="More changes">
+      <created>1678023821697</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678023821697</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
