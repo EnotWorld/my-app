@@ -51,6 +51,7 @@ export const updateNewPostText = (newText) => {
     rerenderEntireThee();
 }
 
+
 export let addMessage = () => {
     let newMessage = {
         id: 5,
