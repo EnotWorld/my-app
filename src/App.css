@@ -25,7 +25,7 @@ a:active {
 .app-wrapper {
     margin: 0 auto;
     display: grid;
-    grid-template-rows: 60px 1fr;
+    grid-template-rows: 50px 1fr;
     grid-template-columns: 2fr 10fr;
     grid-template-areas:
           "h h"

@@ -1,11 +1,22 @@
 .dialogs {
   display: grid;
-  grid-template-columns: 2fr 10fr;
-  background-color: greenyellow;
+  grid-template-rows: 1fr 1fr;
+  align-items: center;
+
+  &_messages {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+  }
 
   &_list {
-
+    max-width: 300px;
   }
+}
+
+.enterMessage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .item {
@@ -17,8 +28,15 @@
 }
 
 .messages {
-  &_list {
 
+
+  &_list {
+    display: flex;
+    padding-top: 20px;
+
+    a {
+      text-align: left;
+    }
   }
 }
 

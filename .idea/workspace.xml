@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb7047da-7066-4d3b-bddd-46c7608db529" name="Changes" comment="add css modules">
-      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialog/Dialog.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialog/Dialog.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.module.scss" afterDir="false" />
+    <list default="true" id="fb7047da-7066-4d3b-bddd-46c7608db529" name="Changes" comment="Reload project">
+      <change afterPath="$PROJECT_DIR$/src/redux/state.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialog/Dialog.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialog/Dialog.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialog/Dialog.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialog/Dialog.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +32,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -47,11 +60,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "js.last.introduce.type": "LET",
-    "last_opened_file_path": "C:/Users/admin/my-app/src/components/Profile/ProfileInfo",
+    "last_opened_file_path": "C:/Users/admin/my-app/src",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.eslint": "",
     "node.js.selected.package.standard": "",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "watcher.settings",
@@ -61,17 +74,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\my-app\src" />
       <recent name="C:\Users\admin\my-app\src\components\Profile\ProfileInfo" />
       <recent name="C:\Users\admin\my-app\src\components\Dialogs\Dialog" />
       <recent name="C:\Users\admin\my-app\src\components\Dialogs\Names" />
       <recent name="C:\Users\admin\my-app\src\components\Dialogs" />
-      <recent name="C:\Users\admin\my-app\src\components\Profile\MyPosts\Post" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\my-app\src\redux" />
+      <recent name="C:\Users\admin\my-app\src" />
       <recent name="C:\Users\admin\my-app\src\components\Profile" />
       <recent name="C:\Users\admin\my-app\src\components\Navbar" />
       <recent name="C:\Users\admin\my-app\src\components\Header" />
-      <recent name="C:\Users\admin\my-app\src\components" />
     </key>
   </component>
   <component name="RunManager">
@@ -109,7 +123,12 @@
       <workItem from="1676804008697" duration="61000" />
       <workItem from="1677613107304" duration="3707000" />
       <workItem from="1677618451289" duration="9527000" />
-      <workItem from="1677631117325" duration="9846000" />
+      <workItem from="1677631117325" duration="20339000" />
+      <workItem from="1677782804308" duration="13187000" />
+      <workItem from="1677856815682" duration="7452000" />
+      <workItem from="1677877577255" duration="3645000" />
+      <workItem from="1677884997729" duration="761000" />
+      <workItem from="1677946427349" duration="15906000" />
     </task>
     <task id="LOCAL-00001" summary="Added posts to the profile">
       <created>1676663522257</created>
@@ -139,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676667883491</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Reload project">
+      <created>1677680031500</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677680031500</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +187,7 @@
     <MESSAGE value="Added an avatar to my profile" />
     <MESSAGE value="Add file class" />
     <MESSAGE value="add css modules" />
-    <option name="LAST_COMMIT_MESSAGE" value="add css modules" />
+    <MESSAGE value="Reload project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reload project" />
   </component>
 </project>
